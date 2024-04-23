@@ -1,4 +1,4 @@
-import 'package:flutter_use/flutter_use.dart';
+import 'package:flutter_use_basic/flutter_use.dart';
 
 /// Re-builds the component after a specified duration.
 /// Provides handles to cancel and/or reset the timeout.

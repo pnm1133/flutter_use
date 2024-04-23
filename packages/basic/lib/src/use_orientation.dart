@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:flutter_use/src/use_orientation_fn.dart';
+import 'package:flutter_use_basic/src/use_orientation_fn.dart';
 
 /// Tracks screen orientation of user's device.
 Orientation useOrientation() {

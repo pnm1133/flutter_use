@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:flutter_use/flutter_use.dart';
+import 'package:flutter_use_basic/flutter_use.dart';
 
 /// Flutter lifecycle hook that calls a function when the component will
 /// unmount. Use useLifecycles if you need both a mount and unmount function.

@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
 
   flutter_hooks: ^0.20.0
-  flutter_use:
+  flutter_use_basic:
     path: ../
 
 dev_dependencies:

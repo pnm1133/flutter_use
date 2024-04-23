@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_use/flutter_use.dart';
+import 'package:flutter_use_basic/flutter_use.dart';
 import 'flutter_hooks_testing.dart';
 import 'package:mockito/mockito.dart';
 
